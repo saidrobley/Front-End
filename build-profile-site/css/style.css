@@ -1,0 +1,64 @@
+
+body {
+	margin: 20px;
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+hr {
+	border: 2px solid #7d97ad;
+}
+
+.feature {
+	color: #7D97AD;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.logo {
+
+}
+.name {
+	font-weight: 300;
+	font-size: 50px;
+}
+.description {
+	font-weight: 500;
+}
+.main img {
+	width: 100%;
+}
+
+.footer img {
+	width: 100%;
+}
+
+.footer h3 {
+	padding-top: 10px;
+	padding-bottom: 0px;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+ 
+  .header img {
+  	display: block;
+  	margin: auto;
+  }
+  h1, h4 {
+  	text-align: center;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  
+  .header img {
+  	display: block;
+  	margin: auto;
+  }
+  h1, h4 {
+  	text-align: center;
+  }
+}
