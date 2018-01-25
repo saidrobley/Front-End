@@ -1,0 +1,46 @@
+/* add your CSS here */
+
+
+.container {
+	border: 1px solid silver;
+	width: 310px;
+	font-family: "Times New Roman", Times, serif;
+	margin: 15px auto;
+	box-shadow: 10px 10px #F1F1F1;
+	padding: 10px 10px;
+}
+img, h3{
+	display: block;
+	padding: 0px 5px;
+	text-decoration: bold;
+}
+
+.info {
+	border: 1px solid silver;
+	margin: 15px 5px 5px 5px;
+	padding-left: 10px;
+}
+
+#fact {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+ul {
+	list-style: none;
+	display: inline;
+
+}
+span {
+	font-weight: bold;
+	
+}
+
+
+#description {
+	margin-top: 0px;
+}
+
+
+
+
